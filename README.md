@@ -4,7 +4,7 @@ A complete Machine Learning web application built with Python and Streamlit that
 
 ## Dataset
 
-This project uses the Pima Indians Diabetes dataset, which contains the following medical predictor variables:
+This project uses the Pima Indians Diabetes dataset from kaggle, which contains the following medical predictor variables:
 - Pregnancies
 - Glucose
 - BloodPressure
