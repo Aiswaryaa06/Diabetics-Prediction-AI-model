@@ -47,3 +47,4 @@ streamlit run app.py
 ```
 
 The application will open in your default web browser, where you can enter medical parameters and get a real-time prediction for diabetes risk.
+<img width="1897" height="929" alt="image" src="https://github.com/user-attachments/assets/6a0e7391-cc48-4242-9469-b0e9721a6360" />
